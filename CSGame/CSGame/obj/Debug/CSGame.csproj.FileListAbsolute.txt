@@ -1,0 +1,6 @@
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\bin\Debug\CSGame.exe.config
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\bin\Debug\CSGame.exe
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\bin\Debug\CSGame.pdb
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\obj\Debug\CSGame.csproj.CoreCompileInputs.cache
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\obj\Debug\CSGame.exe
+C:\Users\Dan\builds\CSTypes\CSGame\CSGame\obj\Debug\CSGame.pdb
